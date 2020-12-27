@@ -9,6 +9,7 @@ html,body{
   display: grid;
   place-items: center;
   background-color: rgb(8, 8, 8);
+  /* background: linear-gradient( white black); */
 }
 .pic-ctn{
   display: flex;
